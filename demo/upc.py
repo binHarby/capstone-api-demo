@@ -1,4 +1,6 @@
-import requests import json import pandas as pd
+import requests 
+import json
+import pandas as pd
 import os
 def nutri_upc(upc_code):
     url="https://api.nutritionix.com/v1_1/item?"
@@ -10,7 +12,6 @@ def nutri_upc(upc_code):
 
     response = requests.request("GET", url, headers=headers, params=querystring)
     #parsed json response
-    LS=[1,3,4]
     par=json.loads(response.text)
 
     #return json response as json object / dict

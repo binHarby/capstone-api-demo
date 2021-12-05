@@ -1,0 +1,21 @@
+food_name,brand_name,serving_qty,serving_unit,serving_weight_grams,nf_calories,nf_total_fat,nf_saturated_fat,nf_cholesterol,nf_sodium,nf_total_carbohydrate,nf_dietary_fiber,nf_sugars,nf_protein,nf_potassium,nf_p,nix_brand_name,nix_brand_id,nix_item_name,nix_item_id,upc,consumed_at,source,ndb_no,lat,lng,meal_type,sub_recipe,class_code,brick_code,tag_id,metadata.is_raw_food
+Grilled halloumi,,1,oz,28.35,85.05,6.34,3.73,22.4,177.75,0.62,0,0.29,6.29,21.55,100.36,,,,,,2021-10-23T09:05:42+00:00,1,1000908,,,1,,,,,False
+Manakeesh,,1,small piece,99.61,356.86,14.76,2.04,0,500.1,47.81,2.12,1.13,7.88,114.77,86.68,,,,,,2021-10-23T09:05:43+00:00,1,1005674,,,1,,,,,False
+Hummus,,0.25,cup,60,99.6,5.76,0.86,0,227.4,8.57,3.6,,4.74,136.8,105.6,,,,,,2021-10-23T09:05:44+00:00,1,16158,,,1,,,,,False
+Falafel,,1,"patty (approx 1-1/4"" dia)",19.98,83.14,7.31,0.49,0,30.22,3.72,0.9,0.6,1.07,39.32,20.2,,,,,,2021-10-23T09:05:45+00:00,1,1006416,,,1,,,,,False
+Tabouleh,,1,cup,160,135.58,7.16,1,0,1044.28,16.74,4.84,1.44,3.26,260.72,53.43,,,,,,2021-10-23T09:05:46+00:00,1,1000126,,,1,,,,,False
+Moutabal,Can't Find It :(
+Fattoush,,1,cup,120,159.37,10.39,1.45,0,290.61,15.79,1.44,5.29,1.94,203.48,34.84,,,,,,2021-10-23T09:05:48+00:00,1,1002253,,,1,,,,,False
+Umm ali,Can't Find It :(
+Shanklish,Can't Find It :(
+kabbsa,Can't Find It :(
+molokhia,,1,cup,215.72,141.97,8.63,1.47,27.61,651.18,5.03,2.65,1.26,12.12,317.19,108.2,,,,,,2021-10-23T09:05:52+00:00,1,1003645,,,1,,,,,False
+mansaf,Can't Find It :(
+koshary,Can't Find It :(
+shawarma,,1,sandwich,390,772.95,23.86,7.91,199.93,602.39,58.18,2.83,3.09,77.81,812.98,544.1,,,,,,2021-10-23T09:05:55+00:00,1,1000888,,,1,,,,,False
+kabab,,1,kabob,80.83,182.31,13.71,3.55,41.71,106.61,2.03,0.5,0.76,12.56,208.41,102.88,,,,,,2021-10-23T09:05:56+00:00,1,1000499,,,1,,,,,False
+biriyani,,1,cup,205.18,291.95,9.44,1.7,48.47,419.16,30.95,1.36,3.2,19.65,461.71,190.5,,,,,,2021-10-23T09:05:57+00:00,1,1000523,,,1,,,,,False
+harees,Can't Find It :(
+couscous,,1,"cup, cooked",157,175.84,0.25,0.05,0,7.85,36.46,2.2,0.16,5.95,91.06,34.54,,,,,,2021-10-23T09:05:58+00:00,1,20029,,,1,,,,,False
+shakshouka,,2,eggs with sauce,551.8,479.3,34.29,12.22,414.02,1493.34,22.32,7.84,14.01,23.05,940.27,444.96,,,,,,2021-10-23T09:05:59+00:00,1,1003459,,,1,,,,,False
+Foul meddamas,Can't Find It :(
